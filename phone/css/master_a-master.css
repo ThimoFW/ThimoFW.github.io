@@ -1,0 +1,355 @@
+#u4169
+{
+	background: transparent url("../../images/haylandscape.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#pamphletu4328,#u4331
+{
+	position: relative;
+}
+
+#u4333
+{
+	position: absolute;
+	vertical-align: top;
+	background: url("../../images/menu51-u4333.png") no-repeat 0px 0px;
+}
+
+#u4333:hover
+{
+	background: url("../../images/menu51-u4333-r.png") no-repeat 0px 0px;
+}
+
+#u4333.PamphletThumbSelected
+{
+	background: url("../../images/cross93-u4333-a.png") no-repeat 0px 0px;
+}
+
+#u4335
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u4337
+{
+	border-style: none;
+	border-color: #999999;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#accordionu4343
+{
+	border-color: #7F7F7F;
+	background-color: transparent;
+	position: relative;
+}
+
+#u4353-4
+{
+	border-style: solid;
+	border-color: #C5C3C3;
+	background-color: #FFFFFF;
+	position: relative;
+	border-width: 0px 0px 2px;
+}
+
+#u4353-4:hover
+{
+	background-color: #F2F2F2;
+}
+
+#u4353-4:active
+{
+	background-color: #EFEFEF;
+}
+
+#u4353-4:active p,#u4353-4:active h2
+{
+	color: #367F92;
+	visibility: inherit;
+}
+
+#u4355-4
+{
+	border-style: solid;
+	line-height: 43px;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u4355-4:active
+{
+	background-color: #EFEFEF;
+}
+
+.MobNavbox
+{
+	border-style: solid;
+	border-color: #C5C3C3;
+	background-color: #EFEFEF;
+	border-width: 0px 0px 1px;
+}
+
+#u4355-4:active p,#u4355-4:active h3
+{
+	color: #367F92;
+	visibility: inherit;
+}
+
+#u4347-4
+{
+	border-style: solid;
+	border-color: #C5C3C3;
+	background-color: #FFFFFF;
+	position: relative;
+	border-width: 0px 0px 2px;
+}
+
+#u4347-4:hover
+{
+	background-color: #F2F2F2;
+}
+
+#u4355-4.MuseLinkActive,#u4347-4:active
+{
+	background-color: #EFEFEF;
+}
+
+#u4347-4:active p,#u4347-4:active h2
+{
+	color: #367F92;
+	visibility: inherit;
+}
+
+#u4358-4
+{
+	border-style: solid;
+	line-height: 43px;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u4359-4
+{
+	border-style: solid;
+	line-height: 43px;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u4351-4
+{
+	border-style: solid;
+	border-color: #C5C3C3;
+	background-color: #FFFFFF;
+	position: relative;
+	border-width: 0px 0px 2px;
+}
+
+#u4351-4:hover
+{
+	background-color: #F2F2F2;
+}
+
+#u4358-4:active,#u4359-4:active,#u4351-4:active
+{
+	background-color: #EFEFEF;
+}
+
+#u4358-4:active p,#u4358-4:active h3,#u4359-4:active p,#u4359-4:active h3,#u4351-4:active p,#u4351-4:active h2
+{
+	color: #367F92;
+	visibility: inherit;
+}
+
+#u4361-4
+{
+	border-style: solid;
+	line-height: 43px;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u4362-4
+{
+	border-style: solid;
+	line-height: 43px;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u4363-4
+{
+	border-style: solid;
+	line-height: 43px;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u4361-4:active,#u4362-4:active,#u4363-4:active
+{
+	background-color: #EFEFEF;
+}
+
+#u4361-4:active p,#u4361-4:active h3,#u4362-4:active p,#u4362-4:active h3,#u4363-4:active p,#u4363-4:active h3
+{
+	color: #367F92;
+	visibility: inherit;
+}
+
+#u4364-4
+{
+	border-style: solid;
+	line-height: 43px;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u4170,#u4352,#u4344,#u4348,#u4366
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u4367-4
+{
+	border-style: solid;
+	border-color: #C5C3C3;
+	background-color: #FFFFFF;
+	position: relative;
+	border-width: 0px 0px 2px;
+}
+
+#u4367-4:hover
+{
+	background-color: #F2F2F2;
+}
+
+#u4363-4.MuseLinkActive,#u4364-4:active,#u4367-4:active
+{
+	background-color: #EFEFEF;
+}
+
+#u4353-4.AccordionPanelTabOpen,#u4347-4.AccordionPanelTabOpen,#u4351-4.AccordionPanelTabOpen,#u4367-4.AccordionPanelTabOpen
+{
+	background-color: #FFFFFF;
+}
+
+#u4364-4:active p,#u4364-4:active h3,#u4367-4:active p,#u4367-4:active h2
+{
+	color: #367F92;
+	visibility: inherit;
+}
+
+#u4354,#u4345,#u4349,#u4368
+{
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u4373-4
+{
+	border-style: solid;
+	line-height: 43px;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u4373-4:active
+{
+	background-color: #EFEFEF;
+}
+
+#u4373-4:active p,#u4373-4:active h3
+{
+	color: #367F92;
+	visibility: inherit;
+}
+
+#u4374-4
+{
+	border-style: solid;
+	line-height: 43px;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u4375-4
+{
+	border-style: solid;
+	line-height: 43px;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u4376-4
+{
+	border-style: solid;
+	line-height: 43px;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u4373-4.MuseLinkActive,#u4374-4:active,#u4375-4:active,#u4376-4:active
+{
+	background-color: #EFEFEF;
+}
+
+#u4374-4:active p,#u4374-4:active h3,#u4375-4:active p,#u4375-4:active h3,#u4376-4:active p,#u4376-4:active h3
+{
+	color: #367F92;
+	visibility: inherit;
+}
+
+#u4353-4.AccordionPanelTabOpen p,#u4353-4.AccordionPanelTabOpen h2,#u4355-4.MuseLinkActive p,#u4355-4.MuseLinkActive h3,#u4347-4.AccordionPanelTabOpen p,#u4347-4.AccordionPanelTabOpen h2,#u4351-4.AccordionPanelTabOpen p,#u4351-4.AccordionPanelTabOpen h2,#u4363-4.MuseLinkActive p,#u4363-4.MuseLinkActive h3,#u4367-4.AccordionPanelTabOpen p,#u4367-4.AccordionPanelTabOpen h2,#u4373-4.MuseLinkActive p,#u4373-4.MuseLinkActive h3,#u4376-4.MuseLinkActive p,#u4376-4.MuseLinkActive h3
+{
+	color: #105777;
+	visibility: inherit;
+}
+
+#u4377-4
+{
+	border-style: solid;
+	line-height: 43px;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u4378-4
+{
+	border-style: solid;
+	line-height: 43px;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u4376-4.MuseLinkActive,#u4377-4:active,#u4378-4:active
+{
+	background-color: #EFEFEF;
+}
+
+#u4377-4:active p,#u4377-4:active h3,#u4378-4:active p,#u4378-4:active h3
+{
+	color: #367F92;
+	visibility: inherit;
+}
+
+.AccordionPanelTab,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* accordion */
+{
+	cursor: pointer;
+}
+
+#u4179
+{
+	background: -webkit-gradient(linear, left center, right center, from(#105777),color-stop(100%, #367F92));
+	background: -webkit-linear-gradient(left,#105777 ,#367F92 100%);
+	background: linear-gradient(to right,#105777 ,#367F92 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF105777, endColorstr=#FF367F92, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF105777', endColorstr='#FF367F92', GradientType=1)";
+	background-size: 100% auto;
+}
+

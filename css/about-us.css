@@ -1,7 +1,7 @@
 .version.about_us /* version checker */
 {
-	color: #0000ED;
-	background-color: #6F4BF7;
+	color: #0000F9;
+	background-color: #D2AEF1;
 }
 
 .html
@@ -738,10 +738,10 @@
 	min-height: 59px;
 	background-color: #EFEFEF;
 	border-radius: 10px 10px 0px 0px ;
-	color: #000000;
 	font-size: 63px;
-	text-align: center;
 	line-height: 76px;
+	color: #000000;
+	text-align: center;
 	font-family: unifrakturmaguntia, fantasy;
 	font-weight: 400;
 	font-style: normal;
@@ -1653,9 +1653,9 @@
 	width: 911px;
 	min-height: 32px;
 	background-color: transparent;
-	line-height: 19px;
 	font-size: 16px;
 	text-align: justify;
+	line-height: 19px;
 	font-family: open-sans-condensed, sans-serif;
 	font-weight: 300;
 	margin-left: 20px;
@@ -1895,8 +1895,8 @@
 	width: 910px;
 	min-height: 114px;
 	background-color: transparent;
-	line-height: 24px;
 	letter-spacing: 0px;
+	line-height: 24px;
 	margin-left: 20px;
 	margin-top: 14px;
 	position: relative;
@@ -1941,9 +1941,9 @@
 	min-height: 251px;
 	background-color: transparent;
 	font-size: 24px;
-	text-align: right;
-	letter-spacing: 3px;
 	line-height: 29px;
+	letter-spacing: 3px;
+	text-align: right;
 	font-family: open-sans-condensed, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -1971,10 +1971,10 @@
 	min-height: 263px;
 	background-color: transparent;
 	font-size: 24px;
-	text-align: left;
+	line-height: 29px;
 	letter-spacing: 1px;
 	color: #EFEFEF;
-	line-height: 29px;
+	text-align: left;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	font-style: normal;

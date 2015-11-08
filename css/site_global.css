@@ -299,6 +299,26 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
+.MobSubNavFont
+{
+	font-family: bebas-neue, sans-serif;
+	font-size: 36px;
+	font-weight: 400;
+	text-align: left;
+	padding: 0px 0px 0px 30px;
+}
+
+.MobNavFont
+{
+	color: #000000;
+	font-family: bebas-neue, sans-serif;
+	font-size: 48px;
+	font-weight: 400;
+	line-height: 48px;
+	text-align: left;
+	padding: 0px 0px 0px 16px;
+}
+
 .list0 li:before
 {
 	position: absolute;

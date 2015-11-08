@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E0;
-	background-color: #6A8D0C;
+	color: #000002;
+	background-color: #324F3F;
 }
 
 .html
@@ -1410,10 +1410,10 @@
 	width: 40px;
 	min-height: 33px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #105777;
 	font-size: 24px;
 	text-align: center;
+	line-height: 29px;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	margin-left: 455px;
@@ -1560,7 +1560,6 @@
 	width: 910px;
 	min-height: 51px;
 	background-color: transparent;
-	text-align: center;
 	line-height: 24px;
 	margin-left: 20px;
 	margin-top: 46px;
@@ -1580,10 +1579,10 @@
 	width: 440px;
 	min-height: 47px;
 	border-style: solid;
-	line-height: 36px;
 	color: #105777;
 	font-size: 36px;
 	text-align: center;
+	line-height: 36px;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	margin-bottom: -2px;
@@ -1617,10 +1616,10 @@
 	width: 440px;
 	min-height: 47px;
 	border-style: solid;
-	line-height: 36px;
 	color: #105777;
 	font-size: 36px;
 	text-align: center;
+	line-height: 36px;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	margin-bottom: -2px;
@@ -1643,10 +1642,10 @@
 	width: 440px;
 	min-height: 47px;
 	border-style: solid;
-	line-height: 36px;
 	color: #105777;
 	font-size: 36px;
 	text-align: center;
+	line-height: 36px;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	margin-bottom: -2px;
@@ -1661,10 +1660,10 @@
 	width: 440px;
 	min-height: 47px;
 	border-style: solid;
-	line-height: 36px;
 	color: #105777;
 	font-size: 36px;
 	text-align: center;
+	line-height: 36px;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	margin-bottom: -2px;
@@ -1687,10 +1686,10 @@
 	width: 440px;
 	min-height: 47px;
 	border-style: solid;
-	line-height: 36px;
 	color: #105777;
 	font-size: 36px;
 	text-align: center;
+	line-height: 36px;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	margin-bottom: -2px;
@@ -1705,10 +1704,10 @@
 	width: 440px;
 	min-height: 47px;
 	border-style: solid;
-	line-height: 36px;
 	color: #105777;
 	font-size: 36px;
 	text-align: center;
+	line-height: 36px;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	margin-bottom: -2px;
