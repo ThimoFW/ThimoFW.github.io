@@ -1,20 +1,24 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="swecquestudios.com" resolutions="1x" timestamp="1447001025430">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="swecquestudios.com" resolutions="1x" timestamp="1447002494972">
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="455739780" ref="phone>index:phone>more-info:phone>the-game:phone>about-us"/>
-      <file name="index.css" crc="124503463" ref="phone>index"/>
-      <file name="more-info.css" crc="4200973977" ref="phone>more-info"/>
-      <file name="the-game.css" crc="4200973977" ref="phone>the-game"/>
-      <file name="about-us.css" crc="4245947804" ref="phone>about-us"/>
+      <file name="master_a-master.css" crc="357723393" ref="phone>index:phone>more-info:phone>the-game:phone>about-us"/>
+      <file name="index.css" crc="218848227" ref="phone>index"/>
+      <file name="more-info.css" crc="104355462" ref="phone>more-info"/>
+      <file name="the-game.css" crc="104355462" ref="phone>the-game"/>
+      <file name="about-us.css" crc="4015964796" ref="phone>about-us"/>
+      <file name="iefonts_index.css" crc="4133503882" ref="phone>index"/>
+      <file name="iefonts_more-info.css" crc="139605510" ref="phone>more-info"/>
+      <file name="iefonts_the-game.css" crc="139605510" ref="phone>the-game"/>
+      <file name="iefonts_about-us.css" crc="139605510" ref="phone>about-us"/>
     </folder>
-    <file name="index.html" crc="3848272156" seo="true" mt="1447000961043" redirect="true"/>
-    <file name="about-us.html" crc="173140579" seo="true" mt="1447000961043" redirect="true"/>
-    <file name="the-game.html" crc="233198379" seo="true" mt="1447000961043" redirect="true"/>
-    <file name="more-info.html" crc="3787624503" seo="true" mt="1447000961043" redirect="true"/>
+    <file name="index.html" crc="140370647" seo="true" mt="1447002486003" redirect="true"/>
+    <file name="about-us.html" crc="505286500" seo="true" mt="1447002486003" redirect="true"/>
+    <file name="the-game.html" crc="3814458203" seo="true" mt="1447002486003" redirect="true"/>
+    <file name="more-info.html" crc="389281515" seo="true" mt="1447002486003" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3819340676"/>
-    <file name="master_a-master.css" crc="4258053346" ref="more-info:about-us:index:the-game"/>
+    <file name="master_a-master.css" crc="4041565125" ref="more-info:about-us:index:the-game"/>
     <file name="master_b-master.css" crc="93685072" ref="about-us"/>
     <file name="more-info.css" crc="4197776491" ref="more-info"/>
     <file name="iefonts_more-info.css" crc="60228580" ref="more-info"/>
@@ -116,12 +120,13 @@
     <file name="screenshot_2015-10-31-13-23-34302x189.jpg" crc="427929885" seo="true" ref="phone>index"/>
     <file name="screenshot_2015-10-31-13-21-05302x189.jpg" crc="376808006" seo="true" ref="phone>index"/>
     <file name="phoneframe.png" crc="511840849" seo="true" ref="phone>index"/>
-    <file name="menu51-u4333.png" crc="271327981" ref="phone>index:phone>about-us:phone>the-game:phone>more-info"/>
-    <file name="menu51-u4333-r.png" crc="271327981" ref="phone>index:phone>about-us:phone>the-game:phone>more-info"/>
-    <file name="cross93-u4333-a.png" crc="4079686089" ref="phone>index:phone>about-us:phone>the-game:phone>more-info"/>
+    <file name="menu51-u4333.png" crc="519996589" ref="phone>index:phone>about-us:phone>the-game:phone>more-info"/>
+    <file name="menu51-u4333-r.png" crc="519996589" ref="phone>index:phone>about-us:phone>the-game:phone>more-info"/>
+    <file name="cross93-u4333-a.png" crc="457112017" ref="phone>index:phone>about-us:phone>the-game:phone>more-info"/>
+    <file name="sslogo_500px-crop-u4554.png" crc="4218930885" ref="phone>index:phone>about-us:phone>the-game:phone>more-info"/>
   </folder>
-  <file name="about-us.html" crc="530179562" seo="true" mt="1446983648136" redirect="true"/>
-  <file name="more-info.html" crc="4206389623" seo="true" mt="1446983648135" redirect="true"/>
-  <file name="the-game.html" crc="471163996" seo="true" mt="1446983648135" redirect="true"/>
-  <file name="index.html" crc="104484766" seo="true" mt="1447000595063" redirect="true"/>
+  <file name="about-us.html" crc="530179562" seo="true" mt="1447002324564" redirect="true"/>
+  <file name="more-info.html" crc="4206389623" seo="true" mt="1447002324564" redirect="true"/>
+  <file name="the-game.html" crc="471163996" seo="true" mt="1447002324564" redirect="true"/>
+  <file name="index.html" crc="104484766" seo="true" mt="1447002324564" redirect="true"/>
 </manifest>

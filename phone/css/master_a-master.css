@@ -34,8 +34,10 @@
 
 #u4337
 {
+	-pie-box-shadow: 0px 3px 15px #7F7F7F;
+	box-shadow: 0px 3px 15px rgba(0,0,0,0.5);
 	border-style: none;
-	border-color: #999999;
+	border-color: #000000;
 	background-color: #FFFFFF;
 	position: relative;
 }
@@ -208,12 +210,6 @@
 	border-width: 0px 0px 1px;
 }
 
-#u4170,#u4352,#u4344,#u4348,#u4366
-{
-	background-color: transparent;
-	position: relative;
-}
-
 #u4367-4
 {
 	border-style: solid;
@@ -351,5 +347,269 @@
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF105777, endColorstr=#FF367F92, GradientType=1);
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF105777', endColorstr='#FF367F92', GradientType=1)";
 	background-size: 100% auto;
+}
+
+#u4524-4
+{
+	border-style: solid;
+	color: #FFFFFF;
+	font-size: 24px;
+	line-height: 29px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+	border-width: 0px 0px 2px;
+}
+
+.FooterHeading
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	border-width: 0px 0px 2px;
+}
+
+#u4524-4:hover p
+{
+	color: #29ABE2;
+	visibility: inherit;
+	padding-top: 0px;
+	text-indent: 0px;
+}
+
+#u4524-2
+{
+	padding-top: 5px;
+}
+
+#u4528-4
+{
+	border-style: solid;
+	color: #FFFFFF;
+	font-size: 24px;
+	line-height: 29px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+	border-width: 0px 0px 2px;
+}
+
+#u4528-4:hover p
+{
+	color: #29ABE2;
+	visibility: inherit;
+	padding-top: 0px;
+	text-indent: 0px;
+}
+
+#u4528-2
+{
+	padding-top: 5px;
+}
+
+#u4525-4
+{
+	line-height: 17px;
+	position: relative;
+}
+
+.FooterSubline
+{
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#u4526-4
+{
+	line-height: 17px;
+	position: relative;
+}
+
+#u4527-4
+{
+	line-height: 17px;
+	position: relative;
+}
+
+#u4540-4
+{
+	border-style: solid;
+	color: #FFFFFF;
+	font-size: 24px;
+	line-height: 29px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+	border-width: 0px 0px 2px;
+}
+
+#u4540-4:hover p
+{
+	color: #29ABE2;
+	visibility: inherit;
+	padding-top: 0px;
+	text-indent: 0px;
+}
+
+#u4540-2
+{
+	padding-top: 5px;
+}
+
+#u4538-4
+{
+	line-height: 17px;
+	position: relative;
+}
+
+#u4539-4
+{
+	line-height: 17px;
+	position: relative;
+}
+
+#u4536-4
+{
+	line-height: 17px;
+	position: relative;
+}
+
+#u4537-4
+{
+	line-height: 17px;
+	position: relative;
+}
+
+#u4532-4
+{
+	border-style: solid;
+	color: #FFFFFF;
+	font-size: 24px;
+	line-height: 29px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+	border-width: 0px 0px 2px;
+}
+
+#u4532-4:hover p
+{
+	color: #29ABE2;
+	visibility: inherit;
+	padding-top: 0px;
+	text-indent: 0px;
+}
+
+#u4532-2
+{
+	padding-top: 5px;
+}
+
+#u4533-4
+{
+	line-height: 17px;
+	position: relative;
+}
+
+#u4531-4
+{
+	line-height: 17px;
+	position: relative;
+}
+
+#u4534-4
+{
+	line-height: 17px;
+	position: relative;
+}
+
+#u4530-4
+{
+	line-height: 17px;
+	position: relative;
+}
+
+#u4523,#u4535,#u4529,#u4541
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u4542-4
+{
+	border-style: solid;
+	color: #FFFFFF;
+	font-size: 24px;
+	line-height: 29px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+	border-width: 0px 0px 2px;
+}
+
+#u4524-4:hover,#u4528-4:hover,#u4540-4:hover,#u4532-4:hover,#u4542-4:hover
+{
+	border-color: #29ABE2;
+}
+
+#u4542-4:hover p
+{
+	color: #29ABE2;
+	visibility: inherit;
+	padding-top: 0px;
+	text-indent: 0px;
+}
+
+#u4542-2
+{
+	padding-top: 5px;
+}
+
+#u4546-4
+{
+	line-height: 17px;
+	position: relative;
+}
+
+#u4545-4
+{
+	line-height: 17px;
+	position: relative;
+}
+
+#u4543-4
+{
+	line-height: 17px;
+	position: relative;
+}
+
+#u4544-4
+{
+	line-height: 17px;
+	position: relative;
+}
+
+#u4525-4:hover p,#u4526-4:hover p,#u4527-4:hover p,#u4538-4:hover p,#u4539-4:hover p,#u4536-4:hover p,#u4537-4:hover p,#u4533-4:hover p,#u4531-4:hover p,#u4534-4:hover p,#u4530-4:hover p,#u4546-4:hover p,#u4545-4:hover p,#u4543-4:hover p,#u4544-4:hover p
+{
+	color: #29ABE2;
+	visibility: inherit;
+}
+
+#u4547-4,#u4553-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: raleway, sans-serif;
+	font-weight: 300;
+}
+
+#u4170,#u4352,#u4344,#u4348,#u4366,#u4554
+{
+	background-color: transparent;
+	position: relative;
 }
 
