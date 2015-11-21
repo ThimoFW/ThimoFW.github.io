@@ -1,66 +1,36 @@
-.Paragraph-Open-Sans-Lt
-{
-	font-family: open-sans-condensed-n3, sans-serif;
-}
-
-.ts06-Title-Lobster-Two-Italic
-{
-	font-family: lobster-two-i4, cursive;
-}
-
-.ts05-Body-Handwriting,.ts06-Subtitle-Annie-Use-Your-Telescope
-{
-	font-family: annie-use-your-telescope-n4, sans-serif;
-}
-
-.Header
-{
-	font-family: raleway-n8, sans-serif;
-}
-
-.quotes,.textanimation
+.textanimation
 {
 	font-family: open-sans-condensed-i3, sans-serif;
 }
 
-.Paragraph-Raleway-Lt,.herotext
+.Header,.MobHeader
 {
-	font-family: raleway-n3, sans-serif;
+	font-family: raleway-n8, sans-serif;
 }
 
-.FooterSubline1
+.heroquotes
+{
+	font-family: raleway-n4, sans-serif;
+}
+
+.FooterSubline1,.Subhead-h2
 {
 	font-family: raleway-n5, sans-serif;
 }
 
-.ButtonStyle,.SubNavFont,.NavFont,.MobSubNavFont,.MobNavFont
+.Button1,.SubNavFont,.NavFont,.MobSubNavFont,.MobNavFont,.tellmemore,.ButtonSmall
 {
 	font-family: bebas-neue-n4, sans-serif;
 }
 
-#u4524-4
+.Paragraph,.Mob_Paragraph-offset,.Paragraph-Lines
 {
-	font-family: bebas-neue-n4, sans-serif;
+	font-family: open-sans-condensed-n3, sans-serif;
 }
 
-#u4528-4
+.herotext,.Powerline
 {
-	font-family: bebas-neue-n4, sans-serif;
-}
-
-#u4540-4
-{
-	font-family: bebas-neue-n4, sans-serif;
-}
-
-#u4532-4
-{
-	font-family: bebas-neue-n4, sans-serif;
-}
-
-#u4542-4
-{
-	font-family: bebas-neue-n4, sans-serif;
+	font-family: raleway-n3, sans-serif;
 }
 
 #u4547-4,#u4553-4

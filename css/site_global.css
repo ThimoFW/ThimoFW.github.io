@@ -119,20 +119,20 @@ a.nontext /* used to override default properties of 'a' tag */
 
 .Edited a:link
 {
-	color: #0000FF;
+	color: #29ABE2;
 	text-decoration: underline;
 }
 
 .Edited a:visited
 {
-	color: #800080;
+	color: #29ABE2;
 	text-decoration: underline;
 }
 
 .Edited a:hover
 {
-	color: #0000FF;
-	text-decoration: underline;
+	color: #29ABE2;
+	text-decoration: none;
 }
 
 .Edited a:active
@@ -159,81 +159,19 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
-.Paragraph-Open-Sans-Lt
+.Paragraph
 {
+	color: #333333;
 	font-family: open-sans-condensed, sans-serif;
 	font-size: 20px;
 	font-weight: 300;
 	text-align: justify;
-	padding: 0px;
-}
-
-.quotes
-{
-	color: #000000;
-	font-family: open-sans-condensed, sans-serif;
-	font-size: 36px;
-	font-style: italic;
-	font-weight: 300;
-	text-align: center;
-	padding: 0px;
-}
-
-.ts01-Body-Sans-Basic
-{
-	color: #41414B;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	font-size: 15px;
-	text-indent: 20px;
-	padding: 0px 0px 12px;
-}
-
-.ts05-Body-Handwriting
-{
-	color: #41414B;
-	font-family: annie-use-your-telescope, sans-serif;
-	font-size: 18px;
-	font-weight: 400;
-	text-indent: 20px;
-	padding: 0px 0px 12px;
-}
-
-.ts06-Title-Lobster-Two-Italic
-{
-	color: #41424B;
-	font-family: lobster-two, cursive;
-	font-size: 70px;
-	font-style: italic;
-	font-weight: 400;
-	line-height: 42px;
-	text-align: center;
-	padding: 0px;
-}
-
-.ts06-Subtitle-Annie-Use-Your-Telescope
-{
-	color: #41424B;
-	font-family: annie-use-your-telescope, sans-serif;
-	font-size: 30px;
-	font-weight: 400;
-	line-height: 18px;
-	text-align: center;
-	padding: 0px;
-}
-
-.Paragraph-Raleway-Lt
-{
-	color: #FFFFFF;
-	font-family: raleway, sans-serif;
-	font-size: 28px;
-	font-weight: 300;
-	line-height: 28px;
-	text-align: center;
-	padding: 0px;
+	padding: 5px 0px 0px;
 }
 
 .Header
 {
+	color: #333333;
 	font-family: raleway, sans-serif;
 	font-size: 60px;
 	font-weight: 800;
@@ -243,6 +181,7 @@ a.nontext /* used to override default properties of 'a' tag */
 
 .textanimation
 {
+	color: #333333;
 	font-family: open-sans-condensed, sans-serif;
 	font-size: 36px;
 	font-style: italic;
@@ -261,11 +200,11 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
-.ButtonStyle
+.Button1
 {
-	color: #105777;
+	color: #1686DA;
 	font-family: bebas-neue, sans-serif;
-	font-size: 30px;
+	font-size: 36px;
 	font-weight: 400;
 	text-align: center;
 	padding: 0px;
@@ -283,15 +222,17 @@ a.nontext /* used to override default properties of 'a' tag */
 
 .SubNavFont
 {
+	color: #333333;
 	font-family: bebas-neue, sans-serif;
 	font-size: 24px;
 	font-weight: 400;
 	text-align: center;
-	padding: 0px;
+	padding: 0px 0px 0px 5px;
 }
 
 .NavFont
 {
+	color: #333333;
 	font-family: bebas-neue, sans-serif;
 	font-size: 30px;
 	font-weight: 400;
@@ -301,22 +242,101 @@ a.nontext /* used to override default properties of 'a' tag */
 
 .MobSubNavFont
 {
+	color: #FFFFFF;
 	font-family: bebas-neue, sans-serif;
-	font-size: 36px;
+	font-size: 28px;
 	font-weight: 400;
-	text-align: left;
-	padding: 0px 0px 0px 30px;
+	text-align: center;
+	padding: 0px;
 }
 
 .MobNavFont
 {
-	color: #000000;
+	color: #FFFFFF;
 	font-family: bebas-neue, sans-serif;
-	font-size: 48px;
+	font-size: 36px;
 	font-weight: 400;
-	line-height: 48px;
+	line-height: 36px;
+	text-align: center;
+	padding: 0px;
+}
+
+.MobHeader
+{
+	color: #333333;
+	font-family: raleway, sans-serif;
+	font-size: 36px;
+	font-weight: 800;
+	line-height: 36px;
+	text-align: center;
+	padding: 3px 0px 0px;
+}
+
+.Mob_Paragraph-offset
+{
+	color: #333333;
+	font-family: open-sans-condensed, sans-serif;
+	font-size: 18px;
+	font-weight: 300;
+	text-align: justify;
+	padding: 5px 0px 0px;
+}
+
+.heroquotes
+{
+	color: #333333;
+	font-family: raleway, sans-serif;
+	font-size: 36px;
+	font-weight: 400;
+	text-align: center;
+	padding: 0px;
+}
+
+.tellmemore
+{
+	color: #1686DA;
+	font-family: bebas-neue, sans-serif;
+	font-size: 24px;
+	font-weight: 400;
+	text-align: center;
+	padding: 0px;
+}
+
+.Subhead-h2
+{
+	color: #333333;
+	font-family: raleway, sans-serif;
+	font-size: 36px;
+	font-weight: 500;
+	padding: 0px;
+}
+
+.ButtonSmall
+{
+	color: #1686DA;
+	font-family: bebas-neue, sans-serif;
+	font-size: 24px;
+	font-weight: 400;
 	text-align: left;
-	padding: 0px 0px 0px 16px;
+	padding: 10px 0px 0px;
+}
+
+.Paragraph-Lines
+{
+	color: #333333;
+	font-family: open-sans-condensed, sans-serif;
+	font-size: 20px;
+	font-weight: 300;
+	text-align: justify;
+	padding: 10px 0px 5px;
+}
+
+.Powerline
+{
+	color: #333333;
+	font-family: raleway, sans-serif;
+	font-size: 48px;
+	font-weight: 300;
 }
 
 .list0 li:before

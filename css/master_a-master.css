@@ -13,7 +13,7 @@
 	background-color: #FFFFFF;
 }
 
-#u2514,#menuu2515,#u3692
+#u2514,#menuu2515,#u2540
 {
 	border-style: none;
 	border-color: transparent;
@@ -21,42 +21,21 @@
 	position: relative;
 }
 
-#u3693-4
+#u2543
 {
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 36px;
+	vertical-align: top;
 	position: relative;
+	background: url("../images/group66_small-u2543.png") no-repeat 0px 0px;
 }
 
-#u3692:hover #u3693-4 p,#u3692:hover #u3693-4 h2
+#u2540:hover #u2543
 {
-	color: #367F92;
-	visibility: inherit;
+	background: url("../images/group66_small-u2543-r.png") no-repeat 6px 6px;
 }
 
-#u2540
+#u2540.MuseMenuActive #u2543
 {
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-}
-
-#u2543-4
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 36px;
-	position: relative;
-}
-
-#u2540:hover #u2543-4 p,#u2540:hover #u2543-4 h2
-{
-	color: #367F92;
-	visibility: inherit;
+	background: url("../images/group66_small-u2543-a.png") no-repeat 6px 6px;
 }
 
 #u892_align_to_page,#u2558,#u2525,#u2529
@@ -85,7 +64,7 @@
 
 #u2529:hover #u2532-4 p,#u2529:hover #u2532-4 h3
 {
-	color: #367F92;
+	color: #1686DA;
 	visibility: inherit;
 }
 
@@ -108,7 +87,30 @@
 
 #u2534:hover #u2536-4 p,#u2534:hover #u2536-4 h3
 {
-	color: #367F92;
+	color: #1686DA;
+	visibility: inherit;
+}
+
+#u5250
+{
+	position: relative;
+}
+
+#u5250:hover
+{
+	background-color: #EFEFEF;
+}
+
+#u5252-4
+{
+	background-color: transparent;
+	line-height: 29px;
+	position: relative;
+}
+
+#u5250:hover #u5252-4 p,#u5250:hover #u5252-4 h3
+{
+	color: #1686DA;
 	visibility: inherit;
 }
 
@@ -120,19 +122,21 @@
 	position: relative;
 }
 
-#u2519-4
+#u2519
 {
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 36px;
+	vertical-align: top;
 	position: relative;
+	background: url("../images/game55_small-u2519.png") no-repeat 0px 0px;
 }
 
-#u2517:hover #u2519-4 p,#u2517:hover #u2519-4 h2
+#u2517:hover #u2519
 {
-	color: #367F92;
-	visibility: inherit;
+	background: url("../images/game55_small-u2519-r.png") no-repeat 6px 6px;
+}
+
+#u2517.MuseMenuActive #u2519
+{
+	background: url("../images/game55_small-u2519-a.png") no-repeat 6px 6px;
 }
 
 #u2522,#u3840
@@ -154,7 +158,7 @@
 
 #u3840:hover #u3842-4 p,#u3840:hover #u3842-4 h3
 {
-	color: #367F92;
+	color: #1686DA;
 	visibility: inherit;
 }
 
@@ -177,7 +181,7 @@
 
 #u3849:hover #u3851-4 p,#u3849:hover #u3851-4 h3
 {
-	color: #367F92;
+	color: #1686DA;
 	visibility: inherit;
 }
 
@@ -200,7 +204,7 @@
 
 #u3858:hover #u3860-4 p,#u3858:hover #u3860-4 h3
 {
-	color: #367F92;
+	color: #1686DA;
 	visibility: inherit;
 }
 
@@ -223,7 +227,7 @@
 
 #u3866:hover #u3868-4 p,#u3866:hover #u3868-4 h3
 {
-	color: #367F92;
+	color: #1686DA;
 	visibility: inherit;
 }
 
@@ -235,19 +239,21 @@
 	position: relative;
 }
 
-#u2569-4
+#u2569
 {
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 36px;
+	vertical-align: top;
 	position: relative;
+	background: url("../images/information68_small-u2569.png") no-repeat 0px 0px;
 }
 
-#u2566:hover #u2569-4 p,#u2566:hover #u2569-4 h2
+#u2566:hover #u2569
 {
-	color: #367F92;
-	visibility: inherit;
+	background: url("../images/information68_small-u2569-r.png") no-repeat 6px 6px;
+}
+
+#u2566.MuseMenuActive #u2569
+{
+	background: url("../images/information68_small-u2569-a.png") no-repeat 6px 6px;
 }
 
 #u2565,#u3762
@@ -263,44 +269,13 @@
 #u3764-4
 {
 	background-color: transparent;
-	font-size: 24px;
-	text-align: left;
 	line-height: 29px;
-	font-family: bebas-neue, sans-serif;
-	font-weight: 400;
 	position: relative;
 }
 
-#u3762:hover #u3764-4 p
+#u3762:hover #u3764-4 p,#u3762:hover #u3764-4 h3
 {
-	color: #367F92;
-	visibility: inherit;
-}
-
-#u3769
-{
-	position: relative;
-}
-
-#u3769:hover
-{
-	background-color: #EFEFEF;
-}
-
-#u3771-4
-{
-	background-color: transparent;
-	font-size: 24px;
-	text-align: left;
-	line-height: 29px;
-	font-family: bebas-neue, sans-serif;
-	font-weight: 400;
-	position: relative;
-}
-
-#u3769:hover #u3771-4 p
-{
-	color: #367F92;
+	color: #1686DA;
 	visibility: inherit;
 }
 
@@ -317,17 +292,13 @@
 #u3779-4
 {
 	background-color: transparent;
-	font-size: 24px;
-	text-align: left;
 	line-height: 29px;
-	font-family: bebas-neue, sans-serif;
-	font-weight: 400;
 	position: relative;
 }
 
-#u3776:hover #u3779-4 p
+#u3776:hover #u3779-4 p,#u3776:hover #u3779-4 h3
 {
-	color: #367F92;
+	color: #1686DA;
 	visibility: inherit;
 }
 
@@ -344,17 +315,13 @@
 #u3786-4
 {
 	background-color: transparent;
-	font-size: 24px;
-	text-align: left;
 	line-height: 29px;
-	font-family: bebas-neue, sans-serif;
-	font-weight: 400;
 	position: relative;
 }
 
-#u3785:hover #u3786-4 p
+#u3785:hover #u3786-4 p,#u3785:hover #u3786-4 h3
 {
-	color: #367F92;
+	color: #1686DA;
 	visibility: inherit;
 }
 
@@ -371,18 +338,20 @@
 #u3794-4
 {
 	background-color: transparent;
-	font-size: 24px;
-	text-align: left;
 	line-height: 29px;
-	font-family: bebas-neue, sans-serif;
-	font-weight: 400;
 	position: relative;
 }
 
-#u3792:hover #u3794-4 p
+#u3792:hover #u3794-4 p,#u3792:hover #u3794-4 h3
 {
-	color: #367F92;
+	color: #1686DA;
 	visibility: inherit;
+}
+
+#u2523,#u2526,#u2533,#u5249,#u2516,#u3839,#u3848,#u3855,#u3863,#u2563,#u3761,#u3775,#u3782,#u3789,#u3796
+{
+	background-color: transparent;
+	position: relative;
 }
 
 #u3799
@@ -395,7 +364,7 @@
 	background-color: #EFEFEF;
 }
 
-#u2529.MuseMenuActive,#u2534.MuseMenuActive,#u3840.MuseMenuActive,#u3849.MuseMenuActive,#u3858.MuseMenuActive,#u3866.MuseMenuActive,#u3762.MuseMenuActive,#u3769.MuseMenuActive,#u3776.MuseMenuActive,#u3785.MuseMenuActive,#u3792.MuseMenuActive,#u3799.MuseMenuActive
+#u2529.MuseMenuActive,#u2534.MuseMenuActive,#u5250.MuseMenuActive,#u3840.MuseMenuActive,#u3849.MuseMenuActive,#u3858.MuseMenuActive,#u3866.MuseMenuActive,#u3762.MuseMenuActive,#u3776.MuseMenuActive,#u3785.MuseMenuActive,#u3792.MuseMenuActive,#u3799.MuseMenuActive
 {
 	background-color: #FFFFFF;
 }
@@ -403,23 +372,19 @@
 #u3800-4
 {
 	background-color: transparent;
-	font-size: 24px;
-	text-align: left;
 	line-height: 29px;
-	font-family: bebas-neue, sans-serif;
-	font-weight: 400;
 	position: relative;
 }
 
-#u3799:hover #u3800-4 p
+#u3799:hover #u3800-4 p,#u3799:hover #u3800-4 h3
 {
-	color: #367F92;
+	color: #1686DA;
 	visibility: inherit;
 }
 
-#u3692.MuseMenuActive #u3693-4 p,#u3692.MuseMenuActive #u3693-4 h2,#u2540.MuseMenuActive #u2543-4 p,#u2540.MuseMenuActive #u2543-4 h2,#u2529.MuseMenuActive #u2532-4 p,#u2529.MuseMenuActive #u2532-4 h3,#u2534.MuseMenuActive #u2536-4 p,#u2534.MuseMenuActive #u2536-4 h3,#u2517.MuseMenuActive #u2519-4 p,#u2517.MuseMenuActive #u2519-4 h2,#u3840.MuseMenuActive #u3842-4 p,#u3840.MuseMenuActive #u3842-4 h3,#u3849.MuseMenuActive #u3851-4 p,#u3849.MuseMenuActive #u3851-4 h3,#u3858.MuseMenuActive #u3860-4 p,#u3858.MuseMenuActive #u3860-4 h3,#u3866.MuseMenuActive #u3868-4 p,#u3866.MuseMenuActive #u3868-4 h3,#u2566.MuseMenuActive #u2569-4 p,#u2566.MuseMenuActive #u2569-4 h2,#u3762.MuseMenuActive #u3764-4 p,#u3769.MuseMenuActive #u3771-4 p,#u3776.MuseMenuActive #u3779-4 p,#u3785.MuseMenuActive #u3786-4 p,#u3792.MuseMenuActive #u3794-4 p,#u3799.MuseMenuActive #u3800-4 p
+#u2529.MuseMenuActive #u2532-4 p,#u2529.MuseMenuActive #u2532-4 h3,#u2534.MuseMenuActive #u2536-4 p,#u2534.MuseMenuActive #u2536-4 h3,#u5250.MuseMenuActive #u5252-4 p,#u5250.MuseMenuActive #u5252-4 h3,#u3840.MuseMenuActive #u3842-4 p,#u3840.MuseMenuActive #u3842-4 h3,#u3849.MuseMenuActive #u3851-4 p,#u3849.MuseMenuActive #u3851-4 h3,#u3858.MuseMenuActive #u3860-4 p,#u3858.MuseMenuActive #u3860-4 h3,#u3866.MuseMenuActive #u3868-4 p,#u3866.MuseMenuActive #u3868-4 h3,#u3762.MuseMenuActive #u3764-4 p,#u3762.MuseMenuActive #u3764-4 h3,#u3776.MuseMenuActive #u3779-4 p,#u3776.MuseMenuActive #u3779-4 h3,#u3785.MuseMenuActive #u3786-4 p,#u3785.MuseMenuActive #u3786-4 h3,#u3792.MuseMenuActive #u3794-4 p,#u3792.MuseMenuActive #u3794-4 h3,#u3799.MuseMenuActive #u3800-4 p,#u3799.MuseMenuActive #u3800-4 h3
 {
-	color: #105777;
+	color: #177199;
 	visibility: inherit;
 }
 
@@ -428,31 +393,9 @@
 	cursor: pointer;
 }
 
-#u2559
-{
-	border-style: none;
-	background-color: transparent;
-	position: relative;
-}
-
-#u2524,#u2521,#u2564,#u2559:hover
-{
-	background-color: transparent;
-}
-
 #u2378
 {
-	background: -webkit-gradient(linear, left center, right center, from(#105777),color-stop(100%, #367F92));
-	background: -webkit-linear-gradient(left,#105777 ,#367F92 100%);
-	background: linear-gradient(to right,#105777 ,#367F92 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF105777, endColorstr=#FF367F92, GradientType=1);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF105777', endColorstr='#FF367F92', GradientType=1)";
-	background-size: 100% auto;
-}
-
-#u2378_align_to_page
-{
-	position: relative;
+	background-color: #177199;
 }
 
 #u3811-4
@@ -519,7 +462,7 @@
 	position: relative;
 }
 
-#u2559:active,#u3805-4:hover
+#u2524,#u2521,#u2564,#u3805-4:hover
 {
 	background-color: transparent;
 }
@@ -653,7 +596,7 @@
 	position: relative;
 }
 
-#u3837,#u3822,#u3823,#u3833,#u3832
+#u3822,#u3823,#u3833,#u3832
 {
 	border-style: none;
 	border-color: transparent;
@@ -715,10 +658,20 @@
 	position: relative;
 }
 
-#u2377-4,#u4016-4
+#u2377-4
 {
 	background-color: transparent;
 	color: #FFFFFF;
+	font-family: raleway, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u4016-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: right;
 	font-family: raleway, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -735,9 +688,8 @@
 	visibility: inherit;
 }
 
-#u3675,#u2523,#u2526,#u2533,#u2516,#u3839,#u3848,#u3855,#u3863,#u2563,#u3761,#u3768,#u3775,#u3782,#u3789,#u3796,#u3834
+#u5188,#u2378_align_to_page,#u5191
 {
-	background-color: transparent;
 	position: relative;
 }
 
