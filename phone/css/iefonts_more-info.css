@@ -13,11 +13,6 @@
 	font-family: raleway-n4, sans-serif;
 }
 
-.FooterSubline1,.Subhead-h2
-{
-	font-family: raleway-n5, sans-serif;
-}
-
 .Button1,.SubNavFont,.NavFont,.MobSubNavFont,.MobNavFont,.tellmemore,.ButtonSmall
 {
 	font-family: bebas-neue-n4, sans-serif;
@@ -28,12 +23,22 @@
 	font-family: open-sans-condensed-n3, sans-serif;
 }
 
+.FooterSubline1,.Subhead-h2,.FooterSublineH
+{
+	font-family: raleway-n5, sans-serif;
+}
+
 .herotext,.Powerline
 {
 	font-family: raleway-n3, sans-serif;
 }
 
-#u4547-4,#u4553-4
+#u6907-4,#u6906-4,#u6908-4,#u6909-4
+{
+	font-family: bebas-neue-n4, sans-serif;
+}
+
+#u4547-6,#u4553-4
 {
 	font-family: raleway-n3, sans-serif;
 }

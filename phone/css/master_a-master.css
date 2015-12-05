@@ -4,6 +4,11 @@
 	background-size: cover;
 }
 
+#pamphletu4985,#u4988
+{
+	position: relative;
+}
+
 #u4991
 {
 	position: absolute;
@@ -62,7 +67,7 @@
 .MobHeaderbox
 {
 	border-style: solid;
-	border-color: #29ABE2;
+	border-color: #3AD0CF;
 	background-color: #EFEFEF;
 	border-radius: 10px 10px 0px 0px ;
 	border-width: 0px 0px 2px;
@@ -86,7 +91,7 @@
 
 #u5041-4:active p,#u5041-4:active h2
 {
-	color: #1686DA;
+	color: #2BA0AB;
 	visibility: inherit;
 }
 
@@ -102,7 +107,7 @@
 	-pie-box-shadow: -3px 6px 7px #B2B2B2;
 	box-shadow: -3px 6px 7px rgba(0,0,0,0.3);
 	border-color: #7F7F7F;
-	background-color: #29ABE2;
+	background-color: #3AD0CF;
 	position: relative;
 }
 
@@ -123,7 +128,7 @@
 
 #u4976-4:active p,#u4976-4:active h2
 {
-	color: #1686DA;
+	color: #2BA0AB;
 	visibility: inherit;
 }
 
@@ -149,9 +154,9 @@
 
 #u5019-4:active
 {
-	background-color: #8BB8CC;
-	background-color: rgba(23,113,153,0.5);
-	-pie-background: rgba(23,113,153,0.5);
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
 }
 
 .Mob_Subnav
@@ -169,9 +174,9 @@
 
 #u5021-4:active
 {
-	background-color: #8BB8CC;
-	background-color: rgba(23,113,153,0.5);
-	-pie-background: rgba(23,113,153,0.5);
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
 }
 
 #u5023-4
@@ -182,9 +187,9 @@
 
 #u5023-4:active
 {
-	background-color: #8BB8CC;
-	background-color: rgba(23,113,153,0.5);
-	-pie-background: rgba(23,113,153,0.5);
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
 }
 
 #u4982-4
@@ -202,9 +207,9 @@
 	background-color: #FFFFFF;
 }
 
-#u4982-4:active p,#u4982-4:active h2
+#u4982-4:active p,#u4982-4:active h2,#u4982-4.AccordionPanelTabOpen p,#u4982-4.AccordionPanelTabOpen h2
 {
-	color: #1686DA;
+	color: #2BA0AB;
 	visibility: inherit;
 }
 
@@ -230,9 +235,9 @@
 
 #u5024-4:active
 {
-	background-color: #8BB8CC;
-	background-color: rgba(23,113,153,0.5);
-	-pie-background: rgba(23,113,153,0.5);
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
 }
 
 #u5025-4
@@ -243,9 +248,9 @@
 
 #u5025-4:active
 {
-	background-color: #8BB8CC;
-	background-color: rgba(23,113,153,0.5);
-	-pie-background: rgba(23,113,153,0.5);
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
 }
 
 #u5026-4
@@ -256,9 +261,9 @@
 
 #u5026-4:active
 {
-	background-color: #8BB8CC;
-	background-color: rgba(23,113,153,0.5);
-	-pie-background: rgba(23,113,153,0.5);
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
 }
 
 #u5027-4
@@ -269,9 +274,9 @@
 
 #u5027-4:active
 {
-	background-color: #8BB8CC;
-	background-color: rgba(23,113,153,0.5);
-	-pie-background: rgba(23,113,153,0.5);
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
 }
 
 #u5028-4
@@ -282,9 +287,9 @@
 
 #u5028-4:active
 {
-	background-color: #8BB8CC;
-	background-color: rgba(23,113,153,0.5);
-	-pie-background: rgba(23,113,153,0.5);
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
 }
 
 #u4973,#u4981,#u4977
@@ -315,11 +320,11 @@
 
 #u4978-4:active p,#u4978-4:active h2
 {
-	color: #1686DA;
+	color: #2BA0AB;
 	visibility: inherit;
 }
 
-#u5041-4.MuseLinkActive p,#u5041-4.MuseLinkActive h2,#u4976-4.AccordionPanelTabOpen p,#u4976-4.AccordionPanelTabOpen h2,#u4982-4.AccordionPanelTabOpen p,#u4982-4.AccordionPanelTabOpen h2,#u4978-4.AccordionPanelTabOpen p,#u4978-4.AccordionPanelTabOpen h2
+#u5041-4.MuseLinkActive p,#u5041-4.MuseLinkActive h2,#u4976-4.AccordionPanelTabOpen p,#u4976-4.AccordionPanelTabOpen h2,#u4978-4.AccordionPanelTabOpen p,#u4978-4.AccordionPanelTabOpen h2
 {
 	color: #177199;
 	visibility: inherit;
@@ -347,9 +352,9 @@
 
 #u5029-4:active
 {
-	background-color: #8BB8CC;
-	background-color: rgba(23,113,153,0.5);
-	-pie-background: rgba(23,113,153,0.5);
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
 }
 
 #u5030-4
@@ -360,9 +365,9 @@
 
 #u5030-4:active
 {
-	background-color: #8BB8CC;
-	background-color: rgba(23,113,153,0.5);
-	-pie-background: rgba(23,113,153,0.5);
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
 }
 
 #u5031-4
@@ -373,9 +378,9 @@
 
 #u5031-4:active
 {
-	background-color: #8BB8CC;
-	background-color: rgba(23,113,153,0.5);
-	-pie-background: rgba(23,113,153,0.5);
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
 }
 
 #u5033-4
@@ -386,9 +391,9 @@
 
 #u5033-4:active
 {
-	background-color: #8BB8CC;
-	background-color: rgba(23,113,153,0.5);
-	-pie-background: rgba(23,113,153,0.5);
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
 }
 
 #u5032-4
@@ -399,9 +404,9 @@
 
 #u5032-4:active
 {
-	background-color: #8BB8CC;
-	background-color: rgba(23,113,153,0.5);
-	-pie-background: rgba(23,113,153,0.5);
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
 }
 
 .AccordionPanelTab,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* accordion */
@@ -411,20 +416,141 @@
 
 #u4179
 {
-	background-color: #177199;
+	background-color: #2BA0AB;
 }
 
-#pamphletu4985,#u4988,#u5118,#u5152
+#u5118,#u5152
 {
+	overflow: hidden;
 	position: relative;
 }
 
-#u4547-4,#u4553-4
+.FooterHeading
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	border-width: 0px 0px 2px;
+}
+
+#u6907-2
+{
+	padding-top: 5px;
+}
+
+#u6906-2
+{
+	padding-top: 5px;
+}
+
+#u6908-2
+{
+	padding-top: 5px;
+}
+
+#u6907-4,#u6906-4,#u6908-4,#u6909-4
+{
+	border-style: solid;
+	color: #FFFFFF;
+	font-size: 30px;
+	text-align: center;
+	line-height: 36px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+	border-width: 0px 0px 2px;
+}
+
+#u6909-2
+{
+	padding-top: 5px;
+}
+
+#u4547-6
 {
 	background-color: transparent;
 	color: #FFFFFF;
 	text-align: center;
 	font-family: raleway, sans-serif;
 	font-weight: 300;
+}
+
+#u4553-4
+{
+	background-color: transparent;
+	text-decoration: underline;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: raleway, sans-serif;
+	font-weight: 300;
+}
+
+#u4553-4:hover p
+{
+	text-decoration: underline;
+}
+
+#u6905
+{
+	-pie-box-shadow: -4px 7px 7px #AAAAAA;
+	box-shadow: -4px 7px 7px rgba(0,0,0,0.33);
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u6892
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u6893
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../../images/u6893.png") no-repeat 0px 0px;
+}
+
+#u6893:hover
+{
+	background: url("../../images/u6893-r.png") no-repeat 0px 0px;
+}
+
+#u6899
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../../images/u6899.png") no-repeat 0px 0px;
+}
+
+#u6899:hover
+{
+	background: url("../../images/u6899-r.png") no-repeat 0px 0px;
+}
+
+#u6895
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../../images/u6895.png") no-repeat 0px 0px;
+}
+
+#u6895:hover
+{
+	background: url("../../images/u6895-r.png") no-repeat 0px 0px;
+}
+
+#u6897
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../../images/u6897.png") no-repeat 0px 0px;
+}
+
+#u6897:hover
+{
+	background: url("../../images/u6897-r.png") no-repeat 0px 0px;
 }
 

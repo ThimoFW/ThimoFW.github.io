@@ -1,35 +1,52 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="swecquestudios.com" resolutions="1x" timestamp="1448112418204">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="swecquestudios.com" resolutions="1x" timestamp="1449323759695">
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="4118997069" ref="phone>index:phone>more-info:phone>the-game:phone>about-us"/>
-      <file name="index.css" crc="4131544575" ref="phone>index"/>
-      <file name="more-info.css" crc="106520984" ref="phone>more-info"/>
-      <file name="the-game.css" crc="106520984" ref="phone>the-game"/>
-      <file name="about-us.css" crc="55386568" ref="phone>about-us"/>
-      <file name="iefonts_index.css" crc="3922606857" ref="phone>index"/>
-      <file name="iefonts_more-info.css" crc="8906006" ref="phone>more-info"/>
-      <file name="iefonts_the-game.css" crc="8906006" ref="phone>the-game"/>
-      <file name="iefonts_about-us.css" crc="4046112025" ref="phone>about-us"/>
+      <file name="master_a-master.css" crc="4230457517" ref="phone>index:phone>more-info:phone>the-game:phone>about-us"/>
+      <file name="index.css" crc="3836934709" ref="phone>index"/>
+      <file name="more-info.css" crc="3845420925" ref="phone>more-info"/>
+      <file name="the-game.css" crc="3845420925" ref="phone>the-game"/>
+      <file name="about-us.css" crc="70946833" ref="phone>about-us"/>
+      <file name="iefonts_index.css" crc="496722914" ref="phone>index"/>
+      <file name="iefonts_more-info.css" crc="176715016" ref="phone>more-info"/>
+      <file name="iefonts_the-game.css" crc="176715016" ref="phone>the-game"/>
+      <file name="iefonts_about-us.css" crc="3838986256" ref="phone>about-us"/>
+      <file name="master_b-master.css" crc="3952298052" ref="phone>about-us"/>
     </folder>
-    <file name="index.html" crc="3898568154" seo="true" mt="1448112316898" redirect="true"/>
-    <file name="about-us.html" crc="124894511" seo="true" mt="1448112316898" redirect="true"/>
-    <file name="the-game.html" crc="3975921844" seo="true" mt="1448112316898" redirect="true"/>
-    <file name="more-info.html" crc="501757969" seo="true" mt="1448112316898" redirect="true"/>
+    <file name="index.html" crc="169815497" seo="true" mt="1449323722835" redirect="true"/>
+    <file name="about-us.html" crc="232583350" seo="true" mt="1449323217420" redirect="true"/>
+    <file name="the-game.html" crc="4138597893" seo="true" mt="1449323120849" redirect="true"/>
+    <file name="more-info.html" crc="4135070345" seo="true" mt="1449323120849" redirect="true"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="169184281"/>
-    <file name="master_a-master.css" crc="4136675266" ref="more-info:about-us:index:the-game"/>
-    <file name="master_b-master.css" crc="4152307122" ref="about-us:the-game"/>
-    <file name="more-info.css" crc="410533322" ref="more-info"/>
-    <file name="iefonts_more-info.css" crc="329101949" ref="more-info"/>
-    <file name="about-us.css" crc="179385879" ref="about-us"/>
-    <file name="iefonts_about-us.css" crc="3878200537" ref="about-us"/>
-    <file name="index.css" crc="447533427" ref="index"/>
-    <file name="iefonts_index.css" crc="4009455506" ref="index"/>
-    <file name="the-game.css" crc="497918637" ref="the-game"/>
-    <file name="iefonts_the-game.css" crc="329101949" ref="the-game"/>
+    <file name="site_global.css" crc="365933731"/>
+    <file name="master_a-master.css" crc="462021103" ref="more-info:about-us:index:the-game"/>
+    <file name="master_b-master.css" crc="439674968" ref="about-us:the-game:more-info"/>
+    <file name="more-info.css" crc="186575803" ref="more-info"/>
+    <file name="iefonts_more-info.css" crc="356394996" ref="more-info"/>
+    <file name="about-us.css" crc="3838711467" ref="about-us"/>
+    <file name="iefonts_about-us.css" crc="4027553833" ref="about-us"/>
+    <file name="index.css" crc="4281896138" ref="index"/>
+    <file name="iefonts_index.css" crc="4053914259" ref="index"/>
+    <file name="the-game.css" crc="45220531" ref="the-game"/>
+    <file name="iefonts_the-game.css" crc="4294412038" ref="the-game"/>
   </folder>
   <folder name="assets">
+    <folder name="marvinea">
+      <folder name="edge_includes">
+        <file name="edge.4.0.1.min.js" crc="406902207" mt="1449247879000"/>
+        <file name="jquery-2.0.3.min.js" crc="4065232848" mt="1449247879000"/>
+      </folder>
+      <folder name="images">
+        <file name="Marvin.png" crc="4215352535" mt="1449247879000"/>
+        <file name="MarvinLogo.png" crc="82599268" mt="1449247879000"/>
+        <file name="Stripe.png" crc="3833641429" mt="1449247879000"/>
+      </folder>
+      <file name="transparent.png" crc="4040928768" mt="1449247879000"/>
+      <file name="MarvinEA_edge.js" crc="3829504710" mt="1449247879000"/>
+      <file name="MarvinEA_edgeActions.js" crc="175887547" mt="1449247879000"/>
+      <file name="MarvinEA_edgePreload.js" crc="187539302" mt="1449247879000"/>
+      <file name="MarvinEA.html" crc="3890620936" mt="1449247879000"/>
+    </folder>
     <folder name="swecquestudios">
       <folder name="edge_includes">
         <file name="edge.4.0.1.min.js" crc="406902207" mt="1446835365000"/>
@@ -66,10 +83,10 @@
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="about-us:more-info:the-game:index:phone>index:phone>about-us:phone>the-game:phone>more-info"/>
     <file name="museutils.js" crc="275725342" ref="about-us:more-info:the-game:index:phone>index:phone>about-us:phone>the-game:phone>more-info"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="about-us:index:phone>index:phone>about-us:the-game"/>
-    <file name="pie.js" crc="3827607177" ref="about-us:index:phone>index:phone>about-us:the-game"/>
+    <file name="pie.js" crc="3827607177" ref="about-us:index:phone>index:phone>about-us:the-game:more-info"/>
     <file name="jquery.musemenu.js" crc="4042164668" ref="about-us:more-info:the-game:index"/>
     <file name="jquery.watch.js" crc="3999102769" ref="about-us:more-info:the-game:index:phone>index:phone>about-us:phone>the-game:phone>more-info"/>
-    <file name="jquery.scrolleffects.js" crc="206645848" ref="about-us:phone>about-us:the-game"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="about-us:phone>about-us:the-game:more-info"/>
     <file name="html5shiv.js" crc="4241844378" ref="about-us:more-info:the-game:index"/>
     <file name="webpro.js" crc="3883484123" ref="index:phone>index:phone>about-us:phone>the-game:phone>more-info:the-game"/>
     <file name="musewpslideshow.js" crc="360574455" ref="index:phone>index:phone>about-us:phone>the-game:phone>more-info:the-game"/>
@@ -81,13 +98,8 @@
   <folder name="images">
     <file name="haylandscape.jpg" crc="3970959935" ref="about-us:index:phone>index"/>
     <file name="swecqueiswheretheheartis.jpg" crc="3761645589" ref="about-us:phone>about-us"/>
-    <file name="u4057.png" crc="4222457600" ref="about-us:the-game"/>
-    <file name="u4057-r.png" crc="4273950117" ref="about-us:the-game"/>
-    <file name="u4051.png" crc="3917547999" ref="about-us:the-game"/>
-    <file name="u4051-r.png" crc="4143154670" ref="about-us:the-game"/>
-    <file name="u1277-grad.png" crc="363368083" ref="about-us"/>
-    <file name="swagpatrick-thimo.jpg" crc="4081078012" ref="about-us:phone>about-us"/>
-    <file name="marvinlogo.png" crc="3937344682" seo="true" ref="index"/>
+    <file name="u1277-grad.png" crc="422430930" ref="about-us"/>
+    <file name="swagpatrick-thimo.jpg" crc="4081078012" ref="phone>index:index"/>
     <file name="screenshot_2015-06-29-22-45-48.jpg" crc="4109024444" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:phone>index"/>
     <file name="screenshot_2015-10-31-13-20-25.jpg" crc="106245443" seo="true" ref="index"/>
@@ -103,11 +115,9 @@
     <file name="screenshot_2015-10-31-13-59-37422x264.jpg" crc="225137413" seo="true" ref="index"/>
     <file name="screenshot_2015-10-31-13-23-34422x264.jpg" crc="503384205" seo="true" ref="index"/>
     <file name="screenshot_2015-10-31-13-21-05422x264.jpg" crc="4084968338" seo="true" ref="index"/>
-    <file name="marvin met geit.png" crc="4294008136" seo="true" ref="index"/>
-    <file name="hooibaal.png" crc="3916389607" seo="true" ref="index"/>
-    <file name="googleplaybutton.png" crc="15691961" seo="true" ref="index:phone>index"/>
-    <file name="swecqueintro.jpg" crc="4081244210" ref="index:phone>index"/>
-    <file name="marvinlogo347x155.png" crc="4233316942" seo="true" ref="phone>index"/>
+    <file name="marvin met geit.png" crc="4294008136" seo="true" ref="index:phone>index"/>
+    <file name="hooibaal.png" crc="3916389607" seo="true" ref="index:phone>index"/>
+    <file name="googleplaybutton.png" crc="15691961" seo="true" ref="index:phone>index:about-us"/>
     <file name="screenshot_2015-06-29-22-45-48-u4422-fr.jpg" crc="4269137202" ref="phone>index"/>
     <file name="screenshot_2015-06-29-22-45-48320x180.jpg" crc="4269137202" seo="true" ref="phone>index"/>
     <file name="screenshot_2015-10-31-13-20-25302x189.jpg" crc="4025089440" seo="true" ref="phone>index"/>
@@ -116,70 +126,84 @@
     <file name="screenshot_2015-10-31-13-23-34302x189.jpg" crc="427929885" seo="true" ref="phone>index"/>
     <file name="screenshot_2015-10-31-13-21-05302x189.jpg" crc="376808006" seo="true" ref="phone>index"/>
     <file name="phoneframe.png" crc="511840849" seo="true" ref="phone>index"/>
-    <file name="menu_whiteshadow.svg" crc="4083032139" ref="phone>index"/>
-    <file name="menu_whiteshadow_poster_u5112.png" crc="382591367" ref="phone>index"/>
-    <file name="group66-u4974-fr.png" crc="3894114608" ref="phone>index"/>
-    <file name="game55-u4983-fr.png" crc="361035456" ref="phone>index"/>
-    <file name="information68-u4979-fr.png" crc="4275156852" ref="phone>index"/>
+    <file name="menu_whiteshadow.svg" crc="4083032139" ref="phone>index:phone>about-us"/>
+    <file name="menu_whiteshadow_poster_u5112.png" crc="382591367" ref="phone>index:phone>about-us"/>
+    <file name="group66-u4974-fr.png" crc="3894114608" ref="phone>index:phone>about-us"/>
+    <file name="game55-u4983-fr.png" crc="361035456" ref="phone>index:phone>about-us"/>
+    <file name="information68-u4979-fr.png" crc="4275156852" ref="phone>index:phone>about-us"/>
     <file name="swecquestudios_vector.svg" crc="4213260026" ref="phone>index:phone>about-us:phone>the-game:phone>more-info:about-us:more-info:the-game:index"/>
     <file name="swecquestudios_vector_poster_.png" crc="3955212902" ref="phone>index"/>
-    <file name="file82-u5481.png" crc="373336326" ref="phone>index"/>
-    <file name="chat68-u5486.png" crc="367286341" ref="phone>index"/>
-    <file name="virus4-u5530.png" crc="264223349" ref="phone>index"/>
-    <file name="checked20-u5515.png" crc="4073492364" ref="phone>index"/>
-    <file name="play96-u5498.png" crc="4119326156" ref="phone>index"/>
-    <file name="star169-u5506.png" crc="4044413530" ref="phone>index"/>
-    <file name="share35-u5501.png" crc="3966364586" ref="phone>index"/>
-    <file name="u5503.png" crc="3788640817" ref="phone>index"/>
-    <file name="u5503-r.png" crc="3918444400" ref="phone>index"/>
-    <file name="u5512.png" crc="490385178" ref="phone>index"/>
-    <file name="u5512-r.png" crc="71691348" ref="phone>index"/>
     <file name="down95-u5070.png" crc="3918519877" ref="phone>about-us"/>
-    <file name="down95-u5070-r.png" crc="4141562824" ref="phone>about-us"/>
+    <file name="down95-u5070-r.png" crc="3830721130" ref="phone>about-us"/>
     <file name="u5071-grad.png" crc="145443461" ref="phone>about-us"/>
     <file name="group66_small-u2543.png" crc="3807774829" ref="about-us:more-info:the-game:index"/>
-    <file name="group66_small-u2543-r.png" crc="298361288" ref="about-us:more-info:the-game:index"/>
-    <file name="group66_small-u2543-a.png" crc="4181288751" ref="about-us:more-info:the-game:index"/>
+    <file name="group66_small-u2543-a.png" crc="3807774829" ref="about-us:more-info:the-game:index"/>
     <file name="game55_small-u2519.png" crc="266935853" ref="about-us:more-info:the-game:index"/>
-    <file name="game55_small-u2519-r.png" crc="278628795" ref="about-us:more-info:the-game:index"/>
-    <file name="game55_small-u2519-a.png" crc="387786177" ref="about-us:more-info:the-game:index"/>
+    <file name="game55_small-u2519-a.png" crc="266935853" ref="about-us:more-info:the-game:index"/>
     <file name="information68_small-u2569.png" crc="450222310" ref="about-us:more-info:the-game:index"/>
-    <file name="information68_small-u2569-r.png" crc="3968172920" ref="about-us:more-info:the-game:index"/>
-    <file name="information68_small-u2569-a.png" crc="4147899542" ref="about-us:more-info:the-game:index"/>
-    <file name="group66_small-u5398.png" crc="3807774829" ref="about-us:the-game"/>
-    <file name="group66_small-u5398-r.png" crc="298361288" ref="about-us:the-game"/>
-    <file name="group66_small-u5398-a.png" crc="4181288751" ref="about-us:the-game"/>
-    <file name="game55_small-u5364.png" crc="266935853" ref="about-us:the-game"/>
-    <file name="game55_small-u5364-r.png" crc="278628795" ref="about-us:the-game"/>
-    <file name="game55_small-u5364-a.png" crc="387786177" ref="about-us:the-game"/>
-    <file name="information68_small-u5464.png" crc="450222310" ref="about-us:the-game"/>
-    <file name="information68_small-u5464-r.png" crc="3968172920" ref="about-us:the-game"/>
-    <file name="information68_small-u5464-a.png" crc="4147899542" ref="about-us:the-game"/>
-    <file name="down95-u4907.png" crc="3918519877" ref="about-us"/>
-    <file name="down95-u4907-r.png" crc="4141562824" ref="about-us"/>
+    <file name="information68_small-u2569-a.png" crc="450222310" ref="about-us:more-info:the-game:index"/>
+    <file name="down95-u4907.png" crc="3830721130" ref="about-us"/>
+    <file name="down95-u4907-r.png" crc="4068267918" ref="about-us"/>
     <file name="down95-u4914.png" crc="3868987764" ref="about-us"/>
-    <file name="down95-u4914-r.png" crc="382756942" ref="about-us"/>
+    <file name="down95-u4914-r.png" crc="4068267918" ref="about-us"/>
     <file name="nature-sky-sunny-clouds.jpg" crc="374063511" ref="the-game"/>
     <file name="trailertumbnail.jpg" crc="4206081458" ref="the-game"/>
     <file name="trailertumbnailpressed.jpg" crc="339401824" ref="the-game"/>
     <file name="cross92-u4816.png" crc="330471313" ref="the-game"/>
-    <file name="cross92-u4816-r.png" crc="241912137" ref="the-game"/>
+    <file name="cross92-u4816-r.png" crc="261506742" ref="the-game"/>
     <file name="screenshot1.jpg" crc="3923853982" seo="true" ref="the-game"/>
     <file name="patrickpbackground.jpg" crc="429099923" ref="the-game"/>
     <file name="phonetablet-crop-u3195.png" crc="108994781" ref="index"/>
-    <file name="file82-u5224.png" crc="4260963754" ref="index"/>
-    <file name="chat68-u5327.png" crc="530659580" ref="index"/>
-    <file name="checked20-u5263.png" crc="4185360566" ref="index"/>
-    <file name="play96-u5282.png" crc="352282075" ref="index"/>
-    <file name="star169-u5291.png" crc="3938287725" ref="index"/>
-    <file name="share35-u5302.png" crc="3965917128" ref="index"/>
-    <file name="u5310.png" crc="3788640817" ref="index"/>
-    <file name="u5310-r.png" crc="3918444400" ref="index"/>
-    <file name="u5316.png" crc="490385178" ref="index"/>
-    <file name="u5316-r.png" crc="71691348" ref="index"/>
+    <file name="logo def4.png" crc="290169375" seo="true" ref="phone>index"/>
+    <file name="label29250x250.png" crc="4060551905" seo="true" ref="phone>index"/>
+    <file name="stars-u7107.png" crc="192844415" ref="phone>index"/>
+    <file name="phreview.png" crc="133752072" ref="phone>index:index"/>
+    <file name="stars-u7070.png" crc="3826154010" ref="phone>index"/>
+    <file name="borareview.jpg" crc="3944019636" ref="phone>index:index"/>
+    <file name="stars-u7074.png" crc="3826154010" ref="phone>index"/>
+    <file name="woutrszreview.jpg" crc="3981183923" ref="phone>index:index"/>
+    <file name="stars-u7081.png" crc="3826154010" ref="phone>index"/>
+    <file name="janmullerreview-ieu7061-fr.png" crc="205206774" ref="phone>index:index"/>
+    <file name="janmullerreview.jpg" crc="4102737447" ref="phone>index:index"/>
+    <file name="stars.png" crc="3957148543" seo="true" ref="phone>index:index"/>
+    <file name="stars-u7062.png" crc="4166427987" ref="phone>index"/>
+    <file name="u6893.png" crc="4224733994" ref="phone>index:phone>about-us:phone>the-game:phone>more-info"/>
+    <file name="u6893-r.png" crc="46603955" ref="phone>index:phone>about-us:phone>the-game:phone>more-info"/>
+    <file name="u6899.png" crc="4135465008" ref="phone>index:phone>about-us:phone>the-game:phone>more-info"/>
+    <file name="u6899-r.png" crc="4112978159" ref="phone>index:phone>about-us:phone>the-game:phone>more-info"/>
+    <file name="u6895.png" crc="4130806632" ref="phone>index:phone>about-us:phone>the-game:phone>more-info"/>
+    <file name="u6895-r.png" crc="126984342" ref="phone>index:phone>about-us:phone>the-game:phone>more-info"/>
+    <file name="u6897.png" crc="4189940729" ref="phone>index:phone>about-us:phone>the-game:phone>more-info"/>
+    <file name="u6897-r.png" crc="159563245" ref="phone>index:phone>about-us:phone>the-game:phone>more-info"/>
+    <file name="up143.svg" crc="173093212" ref="phone>index:about-us:more-info:the-game"/>
+    <file name="up143_poster_.png" crc="4249663415" ref="phone>index"/>
+    <file name="swagpatrick-thimo2.jpg" crc="4081078012" ref="phone>about-us:about-us"/>
+    <file name="group66_small-u5398-4-fr.png" crc="120028792" ref="about-us"/>
+    <file name="game55_small-u5364-4-fr.png" crc="3906773020" ref="about-us"/>
+    <file name="information68_small-u5464-4-fr.png" crc="3805463992" ref="about-us"/>
+    <file name="michelangelo-71282-u1270-7-fr.png" crc="86006003" ref="about-us"/>
+    <file name="download157.svg" crc="17726325" ref="about-us"/>
+    <file name="download157_poster_.png" crc="3841473640" ref="about-us"/>
+    <file name="street-962796_1920.jpg" crc="3786398740" ref="about-us"/>
+    <file name="u6861.png" crc="4224733994" ref="about-us:more-info:the-game:index"/>
+    <file name="u6861-r.png" crc="46603955" ref="about-us:more-info:the-game:index"/>
+    <file name="u6871.png" crc="4135465008" ref="about-us:more-info:the-game:index"/>
+    <file name="u6871-r.png" crc="4112978159" ref="about-us:more-info:the-game:index"/>
+    <file name="u6883.png" crc="4130806632" ref="about-us:more-info:the-game:index"/>
+    <file name="u6883-r.png" crc="126984342" ref="about-us:more-info:the-game:index"/>
+    <file name="u6866.png" crc="4189940729" ref="about-us:more-info:the-game:index"/>
+    <file name="u6866-r.png" crc="159563245" ref="about-us:more-info:the-game:index"/>
+    <file name="app icon2.png" crc="190991773" seo="true" ref="about-us:more-info:the-game:index"/>
+    <file name="sharethis.png" crc="4119038236" ref="about-us"/>
+    <file name="stars-u6422.png" crc="3826154010" ref="index"/>
+    <file name="stars-u6714.png" crc="3826154010" ref="index"/>
+    <file name="stars-u6728.png" crc="3826154010" ref="index"/>
+    <file name="stars-u6956.png" crc="4166427987" ref="index"/>
+    <file name="label29.png" crc="4027291570" seo="true" ref="index"/>
+    <file name="stars-u6433.png" crc="19078197" ref="index"/>
   </folder>
-  <file name="about-us.html" crc="486758529" seo="true" mt="1448110614841" redirect="true"/>
-  <file name="more-info.html" crc="147870199" seo="true" mt="1448109958931" redirect="true"/>
-  <file name="the-game.html" crc="3963191753" seo="true" mt="1448110614841" redirect="true"/>
-  <file name="index.html" crc="4158494076" seo="true" mt="1448112254795" redirect="true"/>
+  <file name="about-us.html" crc="227132221" seo="true" mt="1449323070433" redirect="true"/>
+  <file name="more-info.html" crc="4067093970" seo="true" mt="1449323070434" redirect="true"/>
+  <file name="the-game.html" crc="4144389552" seo="true" mt="1449323070435" redirect="true"/>
+  <file name="index.html" crc="4154101025" seo="true" mt="1449323560099" redirect="true"/>
 </manifest>

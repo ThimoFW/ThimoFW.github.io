@@ -1,9 +1,32 @@
+#u7249
+{
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(0,0,0,0.75)),color-stop(100%, rgba(255,255,255,0)));
+	background: -webkit-linear-gradient(top,rgba(0,0,0,0.75) ,rgba(255,255,255,0) 100%);
+	background: linear-gradient(to bottom,rgba(0,0,0,0.75) ,rgba(255,255,255,0) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#BF000000, endColorstr=#00FFFFFF, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#BF000000', endColorstr='#00FFFFFF', GradientType=0)";
+	position: fixed;
+}
+
+.js #u7249.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
 #u3880
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: fixed;
+}
+
+#u5471
+{
+	overflow: hidden;
+	position: relative;
 }
 
 .Navbox
@@ -23,21 +46,27 @@
 	position: relative;
 }
 
-#u5398
+#u5396:hover
 {
-	vertical-align: top;
+	background-color: #EFEFEF;
+}
+
+#u5398-4
+{
+	border-style: none;
+	border-color: transparent;
+	text-align: left;
+	line-height: 36px;
 	position: relative;
-	background: url("../images/group66_small-u5398.png") no-repeat 0px 0px;
+	background: transparent url("../images/group66_small-u5398-4-fr.png") no-repeat left center;
+	background-size: contain;
 }
 
-#u5396:hover #u5398
+#u5396:hover #u5398-4
 {
-	background: url("../images/group66_small-u5398-r.png") no-repeat 6px 6px;
-}
-
-#u5396.MuseMenuActive #u5398
-{
-	background: url("../images/group66_small-u5398-a.png") no-repeat 6px 6px;
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: contain;
 }
 
 #u3881,#u5401,#u5410
@@ -66,7 +95,7 @@
 
 #u5410:hover #u5411-4 p,#u5410:hover #u5411-4 h3
 {
-	color: #1686DA;
+	color: #2BA0AB;
 	visibility: inherit;
 }
 
@@ -75,7 +104,7 @@
 	position: relative;
 }
 
-#u5419:hover
+#u5410.MuseMenuActive,#u5419:hover
 {
 	background-color: #EFEFEF;
 }
@@ -89,7 +118,7 @@
 
 #u5419:hover #u5420-4 p,#u5419:hover #u5420-4 h3
 {
-	color: #1686DA;
+	color: #2BA0AB;
 	visibility: inherit;
 }
 
@@ -98,7 +127,7 @@
 	position: relative;
 }
 
-#u5405:hover
+#u5419.MuseMenuActive,#u5405:hover
 {
 	background-color: #EFEFEF;
 }
@@ -112,7 +141,7 @@
 
 #u5405:hover #u5406-4 p,#u5405:hover #u5406-4 h3
 {
-	color: #1686DA;
+	color: #2BA0AB;
 	visibility: inherit;
 }
 
@@ -124,21 +153,27 @@
 	position: relative;
 }
 
-#u5364
+#u5405.MuseMenuActive,#u5361:hover
 {
-	vertical-align: top;
+	background-color: #EFEFEF;
+}
+
+#u5364-4
+{
+	border-style: none;
+	border-color: transparent;
+	text-align: left;
+	line-height: 36px;
 	position: relative;
-	background: url("../images/game55_small-u5364.png") no-repeat 0px 0px;
+	background: transparent url("../images/game55_small-u5364-4-fr.png") no-repeat left center;
+	background-size: contain;
 }
 
-#u5361:hover #u5364
+#u5396.MuseMenuActive #u5398-4,#u5361:hover #u5364-4
 {
-	background: url("../images/game55_small-u5364-r.png") no-repeat 6px 6px;
-}
-
-#u5361.MuseMenuActive #u5364
-{
-	background: url("../images/game55_small-u5364-a.png") no-repeat 6px 6px;
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: contain;
 }
 
 #u5366,#u5375
@@ -160,7 +195,7 @@
 
 #u5375:hover #u5376-4 p,#u5375:hover #u5376-4 h3
 {
-	color: #1686DA;
+	color: #2BA0AB;
 	visibility: inherit;
 }
 
@@ -169,7 +204,7 @@
 	position: relative;
 }
 
-#u5389:hover
+#u5375.MuseMenuActive,#u5389:hover
 {
 	background-color: #EFEFEF;
 }
@@ -183,7 +218,7 @@
 
 #u5389:hover #u5392-4 p,#u5389:hover #u5392-4 h3
 {
-	color: #1686DA;
+	color: #2BA0AB;
 	visibility: inherit;
 }
 
@@ -192,7 +227,7 @@
 	position: relative;
 }
 
-#u5384:hover
+#u5389.MuseMenuActive,#u5384:hover
 {
 	background-color: #EFEFEF;
 }
@@ -206,7 +241,7 @@
 
 #u5384:hover #u5386-4 p,#u5384:hover #u5386-4 h3
 {
-	color: #1686DA;
+	color: #2BA0AB;
 	visibility: inherit;
 }
 
@@ -215,7 +250,7 @@
 	position: relative;
 }
 
-#u5370:hover
+#u5384.MuseMenuActive,#u5370:hover
 {
 	background-color: #EFEFEF;
 }
@@ -229,7 +264,7 @@
 
 #u5370:hover #u5372-4 p,#u5370:hover #u5372-4 h3
 {
-	color: #1686DA;
+	color: #2BA0AB;
 	visibility: inherit;
 }
 
@@ -241,24 +276,37 @@
 	position: relative;
 }
 
-#u5464
+#u5370.MuseMenuActive,#u5461:hover
 {
-	vertical-align: top;
+	background-color: #EFEFEF;
+}
+
+#u5464-4
+{
+	border-style: none;
+	border-color: transparent;
+	text-align: left;
+	line-height: 36px;
 	position: relative;
-	background: url("../images/information68_small-u5464.png") no-repeat 0px 0px;
+	background: transparent url("../images/information68_small-u5464-4-fr.png") no-repeat left center;
+	background-size: contain;
 }
 
-#u5461:hover #u5464
+#u5361.MuseMenuActive #u5364-4,#u5461:hover #u5464-4
 {
-	background: url("../images/information68_small-u5464-r.png") no-repeat 6px 6px;
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: contain;
 }
 
-#u5461.MuseMenuActive #u5464
+#u5461.MuseMenuActive #u5464-4
 {
-	background: url("../images/information68_small-u5464-a.png") no-repeat 6px 6px;
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: contain;
 }
 
-#u5400,#u5365,#u5424
+#u5396.MuseMenuActive,#u5400,#u5361.MuseMenuActive,#u5365,#u5461.MuseMenuActive,#u5424
 {
 	background-color: transparent;
 }
@@ -282,7 +330,7 @@
 
 #u5427:hover #u5429-4 p,#u5427:hover #u5429-4 h3
 {
-	color: #1686DA;
+	color: #2BA0AB;
 	visibility: inherit;
 }
 
@@ -291,7 +339,7 @@
 	position: relative;
 }
 
-#u5443:hover
+#u5427.MuseMenuActive,#u5443:hover
 {
 	background-color: #EFEFEF;
 }
@@ -305,7 +353,7 @@
 
 #u5443:hover #u5445-4 p,#u5443:hover #u5445-4 h3
 {
-	color: #1686DA;
+	color: #2BA0AB;
 	visibility: inherit;
 }
 
@@ -314,7 +362,7 @@
 	position: relative;
 }
 
-#u5455:hover
+#u5443.MuseMenuActive,#u5455:hover
 {
 	background-color: #EFEFEF;
 }
@@ -328,7 +376,7 @@
 
 #u5455:hover #u5458-4 p,#u5455:hover #u5458-4 h3
 {
-	color: #1686DA;
+	color: #2BA0AB;
 	visibility: inherit;
 }
 
@@ -337,7 +385,7 @@
 	position: relative;
 }
 
-#u5448:hover
+#u5455.MuseMenuActive,#u5448:hover
 {
 	background-color: #EFEFEF;
 }
@@ -351,7 +399,7 @@
 
 #u5448:hover #u5450-4 p,#u5448:hover #u5450-4 h3
 {
-	color: #1686DA;
+	color: #2BA0AB;
 	visibility: inherit;
 }
 
@@ -366,14 +414,14 @@
 	position: relative;
 }
 
-#u5436:hover
+#u5448.MuseMenuActive,#u5436:hover
 {
 	background-color: #EFEFEF;
 }
 
-#u5410.MuseMenuActive,#u5419.MuseMenuActive,#u5405.MuseMenuActive,#u5375.MuseMenuActive,#u5389.MuseMenuActive,#u5384.MuseMenuActive,#u5370.MuseMenuActive,#u5427.MuseMenuActive,#u5443.MuseMenuActive,#u5455.MuseMenuActive,#u5448.MuseMenuActive,#u5436.MuseMenuActive
+#u5436.MuseMenuActive
 {
-	background-color: #FFFFFF;
+	background-color: #EFEFEF;
 }
 
 #u5439-4
@@ -385,47 +433,18 @@
 
 #u5436:hover #u5439-4 p,#u5436:hover #u5439-4 h3
 {
-	color: #1686DA;
+	color: #2BA0AB;
 	visibility: inherit;
 }
 
 #u5410.MuseMenuActive #u5411-4 p,#u5410.MuseMenuActive #u5411-4 h3,#u5419.MuseMenuActive #u5420-4 p,#u5419.MuseMenuActive #u5420-4 h3,#u5405.MuseMenuActive #u5406-4 p,#u5405.MuseMenuActive #u5406-4 h3,#u5375.MuseMenuActive #u5376-4 p,#u5375.MuseMenuActive #u5376-4 h3,#u5389.MuseMenuActive #u5392-4 p,#u5389.MuseMenuActive #u5392-4 h3,#u5384.MuseMenuActive #u5386-4 p,#u5384.MuseMenuActive #u5386-4 h3,#u5370.MuseMenuActive #u5372-4 p,#u5370.MuseMenuActive #u5372-4 h3,#u5427.MuseMenuActive #u5429-4 p,#u5427.MuseMenuActive #u5429-4 h3,#u5443.MuseMenuActive #u5445-4 p,#u5443.MuseMenuActive #u5445-4 h3,#u5455.MuseMenuActive #u5458-4 p,#u5455.MuseMenuActive #u5458-4 h3,#u5448.MuseMenuActive #u5450-4 p,#u5448.MuseMenuActive #u5450-4 h3,#u5436.MuseMenuActive #u5439-4 p,#u5436.MuseMenuActive #u5439-4 h3
 {
-	color: #177199;
+	color: #333333;
 	visibility: inherit;
 }
 
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
-}
-
-#u4057
-{
-	vertical-align: top;
-	position: relative;
-	background: url("../images/u4057.png") no-repeat 0px 0px;
-}
-
-#u4057:hover
-{
-	background: url("../images/u4057-r.png") no-repeat 0px 0px;
-}
-
-#u4051
-{
-	vertical-align: top;
-	position: relative;
-	background: url("../images/u4051.png") no-repeat 0px 0px;
-}
-
-#u4051:hover
-{
-	background: url("../images/u4051-r.png") no-repeat 0px 0px;
-}
-
-#u5471
-{
-	position: relative;
 }
 

@@ -1,0 +1,436 @@
+#u7021
+{
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(0,0,0,0.63)),color-stop(100%, rgba(255,255,255,0)));
+	background: -webkit-linear-gradient(top,rgba(0,0,0,0.63) ,rgba(255,255,255,0) 100%);
+	background: linear-gradient(to bottom,rgba(0,0,0,0.63) ,rgba(255,255,255,0) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#A0000000, endColorstr=#00FFFFFF, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#A0000000', endColorstr='#00FFFFFF', GradientType=0)";
+}
+
+.js #u7021.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u7022
+{
+	overflow: hidden;
+	position: fixed;
+}
+
+#pamphletu6985
+{
+	position: fixed;
+}
+
+#u7019
+{
+	position: relative;
+}
+
+#u7020
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background: transparent url("../../images/menu_whiteshadow.svg") no-repeat center center;
+	background-size: contain;
+}
+
+#u7020:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	background-size: contain;
+}
+
+.nosvg #u7020
+{
+	background-image: url('../../images/menu_whiteshadow_poster_u5112.png');
+}
+
+#u6988
+{
+	position: absolute;
+	background-color: #565656;
+	background-color: rgba(68,68,68,0.9);
+	-pie-background: rgba(68,68,68,0.9);
+}
+
+#u6989
+{
+	border-style: none;
+	border-color: #999999;
+	background-color: transparent;
+	position: relative;
+}
+
+#u6990
+{
+	-pie-box-shadow: -3px 6px 7px #B2B2B2;
+	box-shadow: -3px 6px 7px rgba(0,0,0,0.3);
+	background-color: #FFFFFF;
+	border-radius: 5px 5px 0px 0px ;
+	position: relative;
+}
+
+#u6991-4
+{
+	border-style: solid;
+	background-color: #FFFFFF;
+	position: relative;
+	border-width: 0px 0px 2px;
+}
+
+.MobHeaderbox
+{
+	border-style: solid;
+	border-color: #3AD0CF;
+	background-color: #EFEFEF;
+	border-radius: 10px 10px 0px 0px ;
+	border-width: 0px 0px 2px;
+}
+
+#u7015-4
+{
+	-pie-box-shadow: -3px 6px 7px #B2B2B2;
+	box-shadow: -3px 6px 7px rgba(0,0,0,0.3);
+	border-style: solid;
+	border-color: #EBEAEA;
+	background-color: #FFFFFF;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u7015-4:active
+{
+	background-color: #FFFFFF;
+}
+
+#u7015-4:active p,#u7015-4:active h2
+{
+	color: #2BA0AB;
+	visibility: inherit;
+}
+
+#u7015-2
+{
+	padding-left: 5px;
+	padding-top: 8px;
+	color: #333333;
+}
+
+#accordionu6992
+{
+	-pie-box-shadow: -3px 6px 7px #B2B2B2;
+	box-shadow: -3px 6px 7px rgba(0,0,0,0.3);
+	border-color: #7F7F7F;
+	background-color: #3AD0CF;
+	position: relative;
+}
+
+#u7002-4
+{
+	border-style: solid;
+	border-color: #EBEAEA;
+	background-color: #FFFFFF;
+	color: #333333;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u7002-4:active
+{
+	background-color: #FFFFFF;
+}
+
+#u7002-4:active p,#u7002-4:active h2
+{
+	color: #2BA0AB;
+	visibility: inherit;
+}
+
+#u7002-2
+{
+	padding-left: -5px;
+}
+
+#u7003
+{
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	background: transparent url("../../images/group66-u4974-fr.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u7005-4
+{
+	line-height: 34px;
+	position: relative;
+}
+
+#u7005-4:active
+{
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
+}
+
+.Mob_Subnav
+{
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#u7006-4
+{
+	line-height: 34px;
+	position: relative;
+}
+
+#u7006-4:active
+{
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
+}
+
+#u7004-4
+{
+	line-height: 34px;
+	position: relative;
+}
+
+#u7004-4:active
+{
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
+}
+
+#u7008-4
+{
+	border-style: solid;
+	border-color: #EBEAEA;
+	background-color: #FFFFFF;
+	color: #333333;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u7008-4:active
+{
+	background-color: #FFFFFF;
+}
+
+#u7008-4:active p,#u7008-4:active h2,#u7008-4.AccordionPanelTabOpen p,#u7008-4.AccordionPanelTabOpen h2
+{
+	color: #2BA0AB;
+	visibility: inherit;
+}
+
+#u7008-2
+{
+	padding-left: -5px;
+}
+
+#u7009
+{
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	background: transparent url("../../images/game55-u4983-fr.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u7012-4
+{
+	line-height: 34px;
+	position: relative;
+}
+
+#u7012-4:active
+{
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
+}
+
+#u7014-4
+{
+	line-height: 34px;
+	position: relative;
+}
+
+#u7014-4:active
+{
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
+}
+
+#u7010-4
+{
+	line-height: 34px;
+	position: relative;
+}
+
+#u7010-4:active
+{
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
+}
+
+#u7011-4
+{
+	line-height: 34px;
+	position: relative;
+}
+
+#u7011-4:active
+{
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
+}
+
+#u7013-4
+{
+	line-height: 34px;
+	position: relative;
+}
+
+#u7013-4:active
+{
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
+}
+
+#u7001,#u7007,#u6993
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u7000-4
+{
+	border-style: solid;
+	border-color: #EBEAEA;
+	background-color: #FFFFFF;
+	color: #333333;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u7000-4:active
+{
+	background-color: #FFFFFF;
+}
+
+#u7015-4.MuseLinkActive,#u7002-4.AccordionPanelTabOpen,#u7008-4.AccordionPanelTabOpen,#u7000-4.AccordionPanelTabOpen
+{
+	background-color: #EBEAEA;
+}
+
+#u7000-4:active p,#u7000-4:active h2
+{
+	color: #2BA0AB;
+	visibility: inherit;
+}
+
+#u7015-4.MuseLinkActive p,#u7015-4.MuseLinkActive h2,#u7002-4.AccordionPanelTabOpen p,#u7002-4.AccordionPanelTabOpen h2,#u7000-4.AccordionPanelTabOpen p,#u7000-4.AccordionPanelTabOpen h2
+{
+	color: #177199;
+	visibility: inherit;
+}
+
+#u7000-2
+{
+	padding-left: -5px;
+}
+
+#u6994
+{
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	background: transparent url("../../images/information68-u4979-fr.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u6997-4
+{
+	line-height: 34px;
+	position: relative;
+}
+
+#u6997-4:active
+{
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
+}
+
+#u6996-4
+{
+	line-height: 34px;
+	position: relative;
+}
+
+#u6996-4:active
+{
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
+}
+
+#u6995-4
+{
+	line-height: 34px;
+	position: relative;
+}
+
+#u6995-4:active
+{
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
+}
+
+#u6998-4
+{
+	line-height: 34px;
+	position: relative;
+}
+
+#u6998-4:active
+{
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
+}
+
+#u6999-4
+{
+	line-height: 34px;
+	position: relative;
+}
+
+#u6999-4:active
+{
+	background-color: #999999;
+	background-color: rgba(51,51,51,0.5);
+	-pie-background: rgba(51,51,51,0.5);
+}
+
+.AccordionPanelTab,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* accordion */
+{
+	cursor: pointer;
+}
+

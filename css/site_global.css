@@ -117,21 +117,27 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
+.Edited a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 .Edited a:link
 {
-	color: #29ABE2;
+	color: #3AD0CF;
 	text-decoration: underline;
 }
 
 .Edited a:visited
 {
-	color: #29ABE2;
+	color: #3AD0CF;
 	text-decoration: underline;
 }
 
 .Edited a:hover
 {
-	color: #29ABE2;
+	color: #3AD0CF;
 	text-decoration: none;
 }
 
@@ -192,7 +198,7 @@ a.nontext /* used to override default properties of 'a' tag */
 
 .herotext
 {
-	color: #FFFFFF;
+	color: #333333;
 	font-family: raleway, sans-serif;
 	font-size: 60px;
 	font-weight: 300;
@@ -202,7 +208,7 @@ a.nontext /* used to override default properties of 'a' tag */
 
 .Button1
 {
-	color: #1686DA;
+	color: #2BA0AB;
 	font-family: bebas-neue, sans-serif;
 	font-size: 36px;
 	font-weight: 400;
@@ -286,15 +292,15 @@ a.nontext /* used to override default properties of 'a' tag */
 {
 	color: #333333;
 	font-family: raleway, sans-serif;
-	font-size: 36px;
+	font-size: 24px;
 	font-weight: 400;
-	text-align: center;
+	text-align: left;
 	padding: 0px;
 }
 
 .tellmemore
 {
-	color: #1686DA;
+	color: #2BA0AB;
 	font-family: bebas-neue, sans-serif;
 	font-size: 24px;
 	font-weight: 400;
@@ -313,7 +319,7 @@ a.nontext /* used to override default properties of 'a' tag */
 
 .ButtonSmall
 {
-	color: #1686DA;
+	color: #2BA0AB;
 	font-family: bebas-neue, sans-serif;
 	font-size: 24px;
 	font-weight: 400;
@@ -325,10 +331,21 @@ a.nontext /* used to override default properties of 'a' tag */
 {
 	color: #333333;
 	font-family: open-sans-condensed, sans-serif;
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: 300;
-	text-align: justify;
-	padding: 10px 0px 5px;
+	text-align: left;
+	padding: 10px 0px;
+}
+
+.FooterSublineH
+{
+	color: #FFFFFF;
+	font-family: raleway, sans-serif;
+	font-size: 14px;
+	font-weight: 500;
+	text-decoration: underline;
+	text-indent: 5px;
+	padding: 0px;
 }
 
 .Powerline
